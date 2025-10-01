@@ -1,0 +1,7 @@
+D:\программирование\Учебная практика по программированию\module\модуль 1\ConsoleApp1\ConsoleApp1.1.3\bin\Debug\ConsoleApp1.1.3.exe.config
+D:\программирование\Учебная практика по программированию\module\модуль 1\ConsoleApp1\ConsoleApp1.1.3\bin\Debug\ConsoleApp1.1.3.exe
+D:\программирование\Учебная практика по программированию\module\модуль 1\ConsoleApp1\ConsoleApp1.1.3\bin\Debug\ConsoleApp1.1.3.pdb
+D:\программирование\Учебная практика по программированию\module\модуль 1\ConsoleApp1\ConsoleApp1.1.3\obj\Debug\ConsoleApp1.1.3.csproj.AssemblyReference.cache
+D:\программирование\Учебная практика по программированию\module\модуль 1\ConsoleApp1\ConsoleApp1.1.3\obj\Debug\ConsoleApp1.1.3.csproj.CoreCompileInputs.cache
+D:\программирование\Учебная практика по программированию\module\модуль 1\ConsoleApp1\ConsoleApp1.1.3\obj\Debug\ConsoleApp1.1.3.exe
+D:\программирование\Учебная практика по программированию\module\модуль 1\ConsoleApp1\ConsoleApp1.1.3\obj\Debug\ConsoleApp1.1.3.pdb

@@ -1,0 +1,7 @@
+D:\программирование\Учебная практика по программированию\module\module 3\ConsoleApp3\ConsoleApp3.5\bin\Debug\ConsoleApp3.5.exe.config
+D:\программирование\Учебная практика по программированию\module\module 3\ConsoleApp3\ConsoleApp3.5\bin\Debug\ConsoleApp3.5.exe
+D:\программирование\Учебная практика по программированию\module\module 3\ConsoleApp3\ConsoleApp3.5\bin\Debug\ConsoleApp3.5.pdb
+D:\программирование\Учебная практика по программированию\module\module 3\ConsoleApp3\ConsoleApp3.5\obj\Debug\ConsoleApp3.5.csproj.AssemblyReference.cache
+D:\программирование\Учебная практика по программированию\module\module 3\ConsoleApp3\ConsoleApp3.5\obj\Debug\ConsoleApp3.5.csproj.CoreCompileInputs.cache
+D:\программирование\Учебная практика по программированию\module\module 3\ConsoleApp3\ConsoleApp3.5\obj\Debug\ConsoleApp3.5.exe
+D:\программирование\Учебная практика по программированию\module\module 3\ConsoleApp3\ConsoleApp3.5\obj\Debug\ConsoleApp3.5.pdb

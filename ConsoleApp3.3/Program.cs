@@ -20,7 +20,7 @@ class Program
     // Методы-обработчики задач
     static void SendNotification(Task task)
     {
-        Console.WriteLine($"📢 Уведомление: выполнена задача '{task.Description}'");
+        Console.WriteLine($" Уведомление: выполнена задача '{task.Description}'");
         Console.WriteLine($"   Время создания: {task.CreatedAt:HH:mm:ss}");
     }
 
@@ -117,4 +117,5 @@ class Program
             }
         }
     }
+
 }

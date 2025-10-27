@@ -1,0 +1,10 @@
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\bin\Debug\WindowsFormsApp5.2.exe.config
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\bin\Debug\WindowsFormsApp5.2.exe
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\bin\Debug\WindowsFormsApp5.2.pdb
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\obj\Debug\WindowsFormsApp5.2.csproj.AssemblyReference.cache
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\obj\Debug\SimpleTextEditor.Form1.resources
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\obj\Debug\WindowsFormsApp5._2.Properties.Resources.resources
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\obj\Debug\WindowsFormsApp5.2.csproj.GenerateResource.cache
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\obj\Debug\WindowsFormsApp5.2.csproj.CoreCompileInputs.cache
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\obj\Debug\WindowsFormsApp5.2.exe
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.2\obj\Debug\WindowsFormsApp5.2.pdb

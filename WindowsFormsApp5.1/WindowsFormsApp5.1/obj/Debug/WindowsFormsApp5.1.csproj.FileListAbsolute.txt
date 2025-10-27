@@ -1,0 +1,10 @@
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\bin\Debug\WindowsFormsApp5.1.exe.config
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\bin\Debug\WindowsFormsApp5.1.exe
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\bin\Debug\WindowsFormsApp5.1.pdb
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\obj\Debug\WindowsFormsApp5.1.csproj.AssemblyReference.cache
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\obj\Debug\SimpleDrawingApp.Form1.resources
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\obj\Debug\WindowsFormsApp5._1.Properties.Resources.resources
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\obj\Debug\WindowsFormsApp5.1.csproj.GenerateResource.cache
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\obj\Debug\WindowsFormsApp5.1.csproj.CoreCompileInputs.cache
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\obj\Debug\WindowsFormsApp5.1.exe
+D:\программирование\Учебная практика по программированию\module\module 5\WindowsFormsApp5.1\WindowsFormsApp5.1\obj\Debug\WindowsFormsApp5.1.pdb

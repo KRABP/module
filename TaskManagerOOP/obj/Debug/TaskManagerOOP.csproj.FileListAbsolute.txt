@@ -1,0 +1,14 @@
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\bin\Debug\TaskManagerOOP.exe.config
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\bin\Debug\TaskManagerOOP.exe
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\bin\Debug\TaskManagerOOP.pdb
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\bin\Debug\System.Data.SQLite.dll
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\bin\Debug\System.Data.SQLite.xml
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\obj\Debug\TaskManagerOOP.csproj.AssemblyReference.cache
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\obj\Debug\TaskManagerOOP.MainForm.resources
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\obj\Debug\TaskManagerOOP.Properties.Resources.resources
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\obj\Debug\TaskManagerOOP.TaskForm.resources
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\obj\Debug\TaskManagerOOP.csproj.GenerateResource.cache
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\obj\Debug\TaskManagerOOP.csproj.CoreCompileInputs.cache
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\obj\Debug\TaskMana.B38B1836.Up2Date
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\obj\Debug\TaskManagerOOP.exe
+D:\программирование\Учебная практика по программированию\module\module 8\TaskManagerOOP\TaskManagerOOP\obj\Debug\TaskManagerOOP.pdb

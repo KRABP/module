@@ -1,0 +1,13 @@
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.exe.config
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.exe
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.pdb
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\bin\Debug\System.Data.SQLite.dll
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\bin\Debug\System.Data.SQLite.xml
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\obj\Debug\SimpleTaskManager.csproj.AssemblyReference.cache
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\obj\Debug\SimpleTaskManager.MainForm.resources
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\obj\Debug\SimpleTaskManager.Properties.Resources.resources
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\obj\Debug\SimpleTaskManager.csproj.GenerateResource.cache
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\obj\Debug\SimpleTaskManager.csproj.CoreCompileInputs.cache
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\obj\Debug\SimpleTa.0A4F716A.Up2Date
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\obj\Debug\SimpleTaskManager.exe
+D:\программирование\Учебная практика по программированию\module\module 6\SimpleTaskManager\SimpleTaskManager\obj\Debug\SimpleTaskManager.pdb

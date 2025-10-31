@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TaskManagerOOP.Program">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManagerOOP.Task">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAEQBQgAGQEIAAAAAAAAAAIAAAAAgAIAAYAKAA=</HashCode>
+      <FileName>Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManagerOOP.TaskRepository">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIhCCJAACAAAAgAEBAAgABAABAQAEggAAAgAABAAAA=</HashCode>
+      <FileName>TaskRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="TaskManagerOOP.TaskService">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAAAAACAAQAgIAAAAAABAAAQAgEBAAAAAAAAAAAA=</HashCode>
+      <FileName>TaskService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TaskManagerOOP.ITaskRepository">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBACJAAAAAAAAAAAAAgABAABAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>ITaskRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TaskManagerOOP.Priority">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Task.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TaskManagerOOP.Status">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIBAAAAA=</HashCode>
+      <FileName>Task.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

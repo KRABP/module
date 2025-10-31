@@ -1,0 +1,10 @@
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\bin\Debug\ConsoleApp9.2.exe.config
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\bin\Debug\ConsoleApp9.2.exe
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\bin\Debug\ConsoleApp9.2.pdb
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\bin\Debug\System.Data.SQLite.dll
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\bin\Debug\System.Data.SQLite.xml
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\obj\Debug\ConsoleApp9.2.csproj.AssemblyReference.cache
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\obj\Debug\ConsoleApp9.2.csproj.CoreCompileInputs.cache
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\obj\Debug\ConsoleA.CFC770A0.Up2Date
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\obj\Debug\ConsoleApp9.2.exe
+D:\программирование\Учебная практика по программированию\module\module 9\ConsoleApp9.2\ConsoleApp9.2\obj\Debug\ConsoleApp9.2.pdb
